@@ -1,0 +1,34 @@
+{
+  "source": "User-provided screenshots of the Alliance Blackboard course list, 2026-10-03",
+  "notes": [
+    "Specialization is not shown in the screenshots and is left unassigned.",
+    "The instructor is stored as DEEPESH . exactly as displayed because the full name is not visible.",
+    "Semester and section are transcribed from the visible course code/title where available."
+  ],
+  "courses": [
+    {"term":"Fall 2026","semester":3,"section":"A/B","code":"FALL26_ASAC_CA_MCA_SEM3_A_B_E1CAB708","name":"Applied Reinforcement Learning","instructor_name":"DEEPESH ."},
+    {"term":"Fall 2026","semester":3,"section":"B","code":"FALL26_ASAC_CA_MCA_SEM3_B_E1CAB703","name":"Computer Networks and Communications - B Section","instructor_name":"Dr. Krishnan R"},
+    {"term":"Fall 2026","semester":3,"section":"A/B","code":"FALL26_ASAC_CA_MCA_SEM3_A_B_E1CAB702","name":"Deep Learning Models and Applications","instructor_name":"Tanisha Das"},
+    {"term":"Fall 2026","semester":3,"section":"B","code":"FALL26_ASAC_CA_MCA_SEM3_B_E1CAB704","name":"Engineering Principles of Software","instructor_name":"Gomathy V"},
+    {"term":"Fall 2026","semester":3,"section":"A/B","code":"FALL26_ASAC_CA_MCA_SEM3_A_B_E1CAB707","name":"Generative Models and Applications","instructor_name":"Sanjivini Chowdhury"},
+    {"term":"Fall 2026","semester":3,"section":"A/B","code":"FALL26_ASAC_CA_MCA_SEM3_A_B_E1CAB705","name":"NLP Algorithms and Applications","instructor_name":"Nagasri p"},
+    {"term":"Fall 2026","semester":3,"section":"B","code":"FALL26_ASAC_CA_MCA_SEM3_B_E1CAB706","name":"Professional Skill Development","instructor_name":"Dharshinee Nagarajan"},
+    {"term":"Winter 2026","semester":2,"section":"B","code":"ASAC_CSA_WIN26_MCA_2025_Sem2_SECB_E1CAB610","name":"Advanced Data Structures and Algorithms","instructor_name":"Lakshmi Devi S"},
+    {"term":"Winter 2026","semester":2,"section":"B","code":"ASAC_CSA_WIN26_MCA_2025_Sem2_SECB_E1CAB607","name":"Applied Statistics","instructor_name":"Mahendra Babu Chennupati"},
+    {"term":"Winter 2026","semester":2,"section":"B","code":"ASAC_CSA_WIN26_MCA_2025_Sem2_SECB_E1CAB612","name":"Database Design and Implementation","instructor_name":"Lenin J"},
+    {"term":"Winter 2026","semester":2,"section":"B","code":"ASAC_CSA_WIN26_MCA_2025_Sem2_SECB_E1CAB611","name":"Java Object-Oriented Design and Programming","instructor_name":"Mary Agnes J"},
+    {"term":"Winter 2026","semester":2,"section":"B","code":"ASAC_CSA_WIN26_MCA_2025_Sem2_SECB_E1CAB613","name":"Machine Learning Theory and Practice","instructor_name":"Tanisha Das"},
+    {"term":"Winter 2026","semester":2,"section":"B","code":"ASAC_CSA_WIN26_MCA_2025_Sem2_SECB_E1CAB609","name":"Problem solving through Aptitude - II-MCA-B","instructor_name":"Ajith Pandian"},
+    {"term":"Fall 2025","semester":1,"section":"B","code":"Fall2025_MCA_I_SECB_E1CAB604","name":"Advanced Data Science Techniques","instructor_name":"Aman Kumar Sharma"},
+    {"term":"Fall 2025","semester":1,"section":"B","code":"Fall2025_MCA_I_SECB_E1CAB605","name":"Advanced UI and UX Design for Developers","instructor_name":"Santosh Goyal"},
+    {"term":"Fall 2025","semester":1,"section":"B","code":"Fall2025_MCA_I_SECB_E1CAB600","name":"Discrete Structures","instructor_name":"Naren Sathyanarayanan"},
+    {"term":"Fall 2025","semester":1,"section":"B","code":"Fall2025_MCA_I_SECB_E1CAB606","name":"Front-End Frameworks and Technologies","instructor_name":"Veera Raghav Kathula"},
+    {"term":"Fall 2025","semester":1,"section":"B","code":"Fall2025_MCA_I_SECB_E1CAB603","name":"Mastering Python: From Basics to Advanced","instructor_name":"Renita Joy R"},
+    {"term":"Fall 2025","semester":1,"section":"B","code":"Fall2025_MCA_I_SECB_E1CAB602","name":"Problem solving through Aptitude - I","instructor_name":"Ajith Pandian"}
+  ],
+  "visible_course_content_sections": {
+    "course_code": "FALL26_ASAC_CA_MCA_SEM3_A_B_E1CAB708",
+    "course_name": "Applied Reinforcement Learning",
+    "sections": ["CDAP", "Syllabus", "Topic Wise Contents", "Assignments", "Quiz/Tests", "Reference Notes & Books"]
+  }
+}

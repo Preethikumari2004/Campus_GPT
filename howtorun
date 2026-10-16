@@ -1,0 +1,10 @@
+BACKEND 
+cd C:\Users\Preet\Desktop\MCA-campusAI\backend
+& "C:\Users\Preet\Desktop\MCA-campusAI\.venv\Scripts\python.exe" -m uvicorn main:app --reload --port 8001
+
+FRONTEND
+cd C:\Users\Preet\Desktop\MCA-campusAI\frontend
+npm run dev
+
+Start-Service -Name postgresql-x64-18
+Get-Service -Name postgresql-x64-18

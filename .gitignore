@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+tests/pytest-review-temp/
+frontend/node_modules/
+frontend/dist/
+data/assignment_submissions/
+data/knowledge_base/.vector_index.json
+data/knowledge_base/*
+!data/knowledge_base/.gitkeep
